@@ -15,6 +15,7 @@
 
 ---
 
+
 ### 🧰 IDEs & Text Editors Table
 
 | **Tool Name**       | **Popular Languages**                                       | **Download Link**                                           |
@@ -36,6 +37,7 @@
 
 ---
 
+
 ### Compiler-Interpreter
 
 | C-I   | For     | Download Links                                                    | Tutorials                                                                                                       |
@@ -44,8 +46,6 @@
 | JDK   | JAVA    | https://www.oracle.com/java/technologies/downloads/#jdk24-windows | https://www.youtube.com/watch?v=VvYhfj2g4Zo&t=1211s&pp=ygUWdnMgY29kZSBwaHlzaWNzIHdhbGxhaNIHCQmNCQGHKiGM7w%3D%3D |
 |       |         |                                                                   |                                                                                                                 |
 |       |         |                                                                   |                                                                                                                 |
-
-
 
 
 
