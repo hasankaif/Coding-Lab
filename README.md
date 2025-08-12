@@ -4,18 +4,12 @@
 - 
 // name this repo : "CodeLib"
 
-
-
 // Here add playlist links or maybe blogs links
 
 
 ### FOR DOCUMENTATION
 
 - Go here and download this to see the markdown files in a better way : https://obsidian.md/download
-
-
-
-
 
 
 ---
