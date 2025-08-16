@@ -11,12 +11,7 @@
 
 - Go here and download this to see the markdown files in a better way : https://obsidian.md/download
 
-
 ---
-
-
-
-
 
 ### 🧰 IDEs & Text Editors Table
 
@@ -48,7 +43,6 @@
 | JDK   | JAVA    | https://www.oracle.com/java/technologies/downloads/#jdk24-windows | https://www.youtube.com/watch?v=VvYhfj2g4Zo&t=1211s&pp=ygUWdnMgY29kZSBwaHlzaWNzIHdhbGxhaNIHCQmNCQGHKiGM7w%3D%3D |
 |       |         |                                                                   |                                                                                                                 |
 |       |         |                                                                   |                                                                                                                 |
-
 
 
 
