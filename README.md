@@ -14,9 +14,6 @@
 ---
 
 
-
-
-
 ### 🧰 IDEs & Text Editors Table
 
 | **Tool Name**       | **Popular Languages**                                       | **Download Link**                                           |
